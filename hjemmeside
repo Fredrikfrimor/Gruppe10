@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<img src="Billede1.png" alt="Image not found" style="float:left;width:58px;height:42px;">
+<style>
+    body {
+      background-image: url('Background.jpg');
+    }
+    </style>
+<title>Trust home</title>
+</head>
+
+<body>
+
+<h1>Trust home</h1>
+<p>Check din udlejer</p>
+<a href="https://www.trusthome.dk">Klik her</a>
+<p>Check din lejer</p>
+<a href="https://www.trusthome.dk">Klik her</a>
+<p>Check din bolig</p>
+<a href="https://www.trusthome.dk">Klik her</a>
+
+
+
+</body>
+</html>
